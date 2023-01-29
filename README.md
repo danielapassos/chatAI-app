@@ -5,4 +5,4 @@
 ![OpenAI Screenshot](readme_images/OpenAI_screenshot.png "OpenAI Screenshot")
 
 # Demo Website
-[Demo](https://exemplo.com/)
+[Vercel Demo link](https://chat-ai-app-pi.vercel.app/)
